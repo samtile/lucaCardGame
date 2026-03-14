@@ -1,8 +1,8 @@
 import random
 import statistics
 
-gameScores = [0] * 100000
-lowestScore = 100
+gameScores = [0] * 1000000    # number of games to play here
+lowestScore = 500
 highestScore = 0
 
 
